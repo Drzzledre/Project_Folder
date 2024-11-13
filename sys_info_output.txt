@@ -1,0 +1,6 @@
+CPU Usage:
+%Cpu(s):  0.0 us,  0.6 sy,  0.0 ni, 99.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5.9Gi       6.9Gi       127Mi       3.1Gi       9.6Gi
+Swap:          4.0Gi          0B       4.0Gi
